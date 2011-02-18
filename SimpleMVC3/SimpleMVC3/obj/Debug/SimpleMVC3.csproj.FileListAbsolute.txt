@@ -1,0 +1,6 @@
+C:\Users\amaurer\Documents\Visual Studio 2010\Projects\SimpleMVC3\SimpleMVC3\bin\SimpleMVC3.dll
+C:\Users\amaurer\Documents\Visual Studio 2010\Projects\SimpleMVC3\SimpleMVC3\bin\SimpleMVC3.pdb
+C:\Users\amaurer\Documents\Visual Studio 2010\Projects\SimpleMVC3\SimpleMVC3\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\amaurer\Documents\Visual Studio 2010\Projects\SimpleMVC3\SimpleMVC3\obj\Debug\SimpleMVC3.dll
+C:\Users\amaurer\Documents\Visual Studio 2010\Projects\SimpleMVC3\SimpleMVC3\obj\Debug\SimpleMVC3.pdb
+C:\Users\amaurer\Documents\Visual Studio 2010\Projects\SimpleMVC3\SimpleMVC3\bin\EntityFramework.dll
