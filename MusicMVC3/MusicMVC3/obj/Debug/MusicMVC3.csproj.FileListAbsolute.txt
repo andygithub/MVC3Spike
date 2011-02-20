@@ -1,0 +1,6 @@
+C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MusicMVC3\MusicMVC3\bin\MusicMVC3.dll
+C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MusicMVC3\MusicMVC3\bin\MusicMVC3.pdb
+C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MusicMVC3\MusicMVC3\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MusicMVC3\MusicMVC3\obj\Debug\MusicMVC3.dll
+C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MusicMVC3\MusicMVC3\obj\Debug\MusicMVC3.pdb
+C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MusicMVC3\MusicMVC3\bin\EntityFramework.dll

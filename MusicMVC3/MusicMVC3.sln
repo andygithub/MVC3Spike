@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicMVC3", "MusicMVC3\MusicMVC3.csproj", "{CEE1B51D-5C82-4697-9384-64B6697AFE2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEE1B51D-5C82-4697-9384-64B6697AFE2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEE1B51D-5C82-4697-9384-64B6697AFE2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEE1B51D-5C82-4697-9384-64B6697AFE2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEE1B51D-5C82-4697-9384-64B6697AFE2D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
