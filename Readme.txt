@@ -2,4 +2,6 @@ This is a group of projects that deal with various and features and processes fo
 
 SimpleMVC3 - This folder contains minor modifications to the example here: http://www.asp.net/mvc/tutorials/getting-started-with-mvc3-part1-cs
 
-MusicMCC3 - This folder contains minor modifications to the example here: http://www.asp.net/mvc/tutorials/mvc-music-store-part-1
+MusicMVC3 - This folder contains minor modifications to the example here: http://www.asp.net/mvc/tutorials/mvc-music-store-part-1
+
+JSONMVC3 - This project contains a simple example of using an action to return json data to a view via a jquery ajax call.

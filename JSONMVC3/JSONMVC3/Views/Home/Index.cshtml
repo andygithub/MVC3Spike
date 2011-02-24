@@ -1,0 +1,35 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+<script src="@Url.Content("~/Scripts/Search.js")" type="text/javascript"></script>
+<h2>@ViewBag.Message</h2>
+<p>
+    To learn more about ASP.NET MVC visit <a href="http://asp.net/mvc" title="ASP.NET MVC Website">http://asp.net/mvc</a>.
+</p>
+@using (Html.BeginForm())
+{
+    <input id="caption" value="222" /><p />
+    <button id="search" title="Search" >Search</button>    
+}
+
+<script type="text/javascript">
+
+    $('#search').click(function () {
+        var input = { Caption: $('#caption').val() };
+        $.ajax({
+            url: '/Home/Search',
+            type: 'POST',
+            data: JSON.stringify(input),
+            dataType: 'json',
+            contentType: 'application/json; charset=utf-8',
+            success: function (data) {
+                debugger;
+                alert(data[0].FileName);
+            }
+        });
+
+        return false;
+    });
+
+    </script>
+ 
