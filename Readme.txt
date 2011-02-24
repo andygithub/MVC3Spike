@@ -5,3 +5,5 @@ SimpleMVC3 - This folder contains minor modifications to the example here: http:
 MusicMVC3 - This folder contains minor modifications to the example here: http://www.asp.net/mvc/tutorials/mvc-music-store-part-1
 
 JSONMVC3 - This project contains a simple example of using an action to return json data to a view via a jquery ajax call.
+
+CacheMVC3 - This project contains simple examples of using attributes and the web.config to handle caching in the controller.
