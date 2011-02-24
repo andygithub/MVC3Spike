@@ -7,3 +7,5 @@ MusicMVC3 - This folder contains minor modifications to the example here: http:/
 JSONMVC3 - This project contains a simple example of using an action to return json data to a view via a jquery ajax call.
 
 CacheMVC3 - This project contains simple examples of using attributes and the web.config to handle caching in the controller.
+
+ScaffoldMVC3 - This project contains packages and generation based on this article http://blog.stevensanderson.com/2011/01/13/scaffold-your-aspnet-mvc-3-project-with-the-mvcscaffolding-package/

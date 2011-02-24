@@ -1,0 +1,8 @@
+C:\Users\amaurer\Documents\Visual Studio 2010\Projects\ScaffoldMVC3\ScaffoldMVC3\bin\ScaffoldMVC3.dll
+C:\Users\amaurer\Documents\Visual Studio 2010\Projects\ScaffoldMVC3\ScaffoldMVC3\bin\ScaffoldMVC3.pdb
+C:\Users\amaurer\Documents\Visual Studio 2010\Projects\ScaffoldMVC3\ScaffoldMVC3\bin\EntityFramework.dll
+C:\Users\amaurer\Documents\Visual Studio 2010\Projects\ScaffoldMVC3\ScaffoldMVC3\bin\WebActivator.dll
+C:\Users\amaurer\Documents\Visual Studio 2010\Projects\ScaffoldMVC3\ScaffoldMVC3\bin\WebActivator.pdb
+C:\Users\amaurer\Documents\Visual Studio 2010\Projects\ScaffoldMVC3\ScaffoldMVC3\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\amaurer\Documents\Visual Studio 2010\Projects\ScaffoldMVC3\ScaffoldMVC3\obj\Debug\ScaffoldMVC3.dll
+C:\Users\amaurer\Documents\Visual Studio 2010\Projects\ScaffoldMVC3\ScaffoldMVC3\obj\Debug\ScaffoldMVC3.pdb
