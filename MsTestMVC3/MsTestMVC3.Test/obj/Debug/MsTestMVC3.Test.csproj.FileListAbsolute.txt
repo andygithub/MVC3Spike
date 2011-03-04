@@ -1,0 +1,11 @@
+C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MsTestMVC3\MsTestMVC3.Test\bin\Debug\MsTestMVC3.Test.dll
+C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MsTestMVC3\MsTestMVC3.Test\bin\Debug\MsTestMVC3.Test.pdb
+C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MsTestMVC3\MsTestMVC3.Test\bin\Debug\MsTestMVC3.dll
+C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MsTestMVC3\MsTestMVC3.Test\bin\Debug\MsTestMVC3.pdb
+C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MsTestMVC3\MsTestMVC3.Test\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MsTestMVC3\MsTestMVC3.Test\obj\Debug\MsTestMVC3.Test.dll
+C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MsTestMVC3\MsTestMVC3.Test\obj\Debug\MsTestMVC3.Test.pdb
+C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MsTestMVC3\MsTestMVC3.Test\bin\Debug\MvcContrib.dll
+C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MsTestMVC3\MsTestMVC3.Test\bin\Debug\MvcContrib.TestHelper.dll
+C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MsTestMVC3\MsTestMVC3.Test\bin\Debug\MvcContrib.xml
+C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MsTestMVC3\MsTestMVC3.Test\bin\Debug\MvcContrib.TestHelper.xml
