@@ -1,0 +1,5 @@
+C:\Users\amaurer\Documents\Visual Studio 2010\Projects\SessionlessMVC3\SessionlessMVC3\bin\SessionlessMVC3.dll
+C:\Users\amaurer\Documents\Visual Studio 2010\Projects\SessionlessMVC3\SessionlessMVC3\bin\SessionlessMVC3.pdb
+C:\Users\amaurer\Documents\Visual Studio 2010\Projects\SessionlessMVC3\SessionlessMVC3\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\amaurer\Documents\Visual Studio 2010\Projects\SessionlessMVC3\SessionlessMVC3\obj\Debug\SessionlessMVC3.dll
+C:\Users\amaurer\Documents\Visual Studio 2010\Projects\SessionlessMVC3\SessionlessMVC3\obj\Debug\SessionlessMVC3.pdb
