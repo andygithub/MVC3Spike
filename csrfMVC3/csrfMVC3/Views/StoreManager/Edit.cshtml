@@ -1,0 +1,109 @@
+﻿@model csrfMVC3.Models.Album
+
+@{
+    ViewBag.Title = "Edit";
+}
+
+<h2>Edit</h2>
+
+<script src="@Url.Content("~/Scripts/jquery.validate.min.js")" type="text/javascript"></script>
+<script src="@Url.Content("~/Scripts/jquery.validate.unobtrusive.min.js")" type="text/javascript"></script>
+<script src="@Url.Content("~/Scripts/json2.min.js")" type="text/javascript"></script>
+
+
+@using (Html.BeginForm()) {
+    @Html.AntiForgeryToken(csrfMVC3.Controllers.StoreManagerController.SaltValue)
+    @Html.ValidationSummary(true)
+    <fieldset>
+        <legend>Album</legend>
+
+        @Html.HiddenFor(model => model.AlbumId)
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.GenreId)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.GenreId)
+            @Html.ValidationMessageFor(model => model.GenreId)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.ArtistId)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.ArtistId)
+            @Html.ValidationMessageFor(model => model.ArtistId)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Title)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Title)
+            @Html.ValidationMessageFor(model => model.Title)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Price)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Price)
+            @Html.ValidationMessageFor(model => model.Price)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.AlbumArtUrl)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.AlbumArtUrl)
+            @Html.ValidationMessageFor(model => model.AlbumArtUrl)
+        </div>
+
+        <p>
+            <input type="submit" value="Save - Standard Form with token in view and controller" />
+        </p>
+    </fieldset>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+
+
+
+<div>
+            @Html.TextBox("textBox1")
+            <input type="button" value="Ajax Restriction Button" id="AjaxButton"/>
+            <span id="result" ></span>
+
+</div>
+<script type="text/javascript">
+
+    $.ajaxPrefilter(function (options, originalOptions, jqXHR) {
+        var verificationToken = $("meta[name='__AjaxRequestVerificationToken']").attr('content');
+        //debugger;
+        if (verificationToken) {
+            jqXHR.setRequestHeader("X-Request-Verification-Token", verificationToken);
+        }
+    });
+
+    $("#AjaxButton").click(function (event) {
+        var textbox = $("#textBox1").val();
+        var dto = { 'textBox1': textbox };        
+
+        $.ajax({
+            type: "POST",
+            contentType: "application/json",
+            url: "/StoreManager/ExamineTextBox",
+            data: JSON2.stringify(dto),
+            success: function (msg) {
+                //debugger;
+                $("#result").text(msg);
+            }
+
+
+        });
+
+    });
+
+</script>

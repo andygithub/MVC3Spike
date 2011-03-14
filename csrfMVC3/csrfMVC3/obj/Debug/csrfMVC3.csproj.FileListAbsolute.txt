@@ -1,0 +1,5 @@
+C:\Users\amaurer\Documents\Visual Studio 2010\Projects\csrfMVC3\csrfMVC3\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\amaurer\Documents\Visual Studio 2010\Projects\csrfMVC3\csrfMVC3\bin\csrfMVC3.dll
+C:\Users\amaurer\Documents\Visual Studio 2010\Projects\csrfMVC3\csrfMVC3\bin\csrfMVC3.pdb
+C:\Users\amaurer\Documents\Visual Studio 2010\Projects\csrfMVC3\csrfMVC3\obj\Debug\csrfMVC3.dll
+C:\Users\amaurer\Documents\Visual Studio 2010\Projects\csrfMVC3\csrfMVC3\obj\Debug\csrfMVC3.pdb

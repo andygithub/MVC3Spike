@@ -11,3 +11,6 @@ CacheMVC3 - This project contains simple examples of using attributes and the we
 ScaffoldMVC3 - This project contains packages and generation based on this article http://blog.stevensanderson.com/2011/01/13/scaffold-your-aspnet-mvc-3-project-with-the-mvcscaffolding-package/
 
 MsTestMVC3 - This project contains some simple MS Unit tests around a controller.  It also uses the MVCContrib library to duplicate those same tests with the framework.
+
+csrfMVC3 - This project contains an exploration of the Html.AntiForgeryToken.  It also contains an ajax antiforgerytoken based on this article: http://www.codethinked.com/asp.net-mvc-ajax-csrf-protection-with-jquery-1.5
+
