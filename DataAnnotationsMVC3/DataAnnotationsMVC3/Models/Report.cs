@@ -5,6 +5,7 @@ using System.Web;
 using System.ComponentModel.DataAnnotations;
 using DataAnnotationsExtensions;
 using DataAnnotationsMVC3.Utilities;
+using System.Web.Mvc;
 
 namespace DataAnnotationsMVC3.Models
 {
@@ -21,6 +22,7 @@ namespace DataAnnotationsMVC3.Models
         
         [Required]
         [Date]
+        [Remote("IsDateAvailable","Validation")]
         public DateTime StartDate { get; set; }
         
         [Required]
