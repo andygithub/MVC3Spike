@@ -1,0 +1,8 @@
+C:\Users\amaurer\Documents\Visual Studio 2010\Projects\DataAnnotationsMVC3\DataAnnotationsMVC3\bin\DataAnnotationsMVC3.dll
+C:\Users\amaurer\Documents\Visual Studio 2010\Projects\DataAnnotationsMVC3\DataAnnotationsMVC3\bin\DataAnnotationsMVC3.pdb
+C:\Users\amaurer\Documents\Visual Studio 2010\Projects\DataAnnotationsMVC3\DataAnnotationsMVC3\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\amaurer\Documents\Visual Studio 2010\Projects\DataAnnotationsMVC3\DataAnnotationsMVC3\obj\Debug\DataAnnotationsMVC3.dll
+C:\Users\amaurer\Documents\Visual Studio 2010\Projects\DataAnnotationsMVC3\DataAnnotationsMVC3\obj\Debug\DataAnnotationsMVC3.pdb
+C:\Users\amaurer\Documents\Visual Studio 2010\Projects\DataAnnotationsMVC3\DataAnnotationsMVC3\bin\DataAnnotationsExtensions.ClientValidation.dll
+C:\Users\amaurer\Documents\Visual Studio 2010\Projects\DataAnnotationsMVC3\DataAnnotationsMVC3\bin\DataAnnotationsExtensions.dll
+C:\Users\amaurer\Documents\Visual Studio 2010\Projects\DataAnnotationsMVC3\DataAnnotationsMVC3\bin\WebActivator.dll

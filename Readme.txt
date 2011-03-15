@@ -15,3 +15,5 @@ MsTestMVC3 - This project contains some simple MS Unit tests around a controller
 csrfMVC3 - This project contains an exploration of the Html.AntiForgeryToken.  It also contains an ajax antiforgerytoken based on this article: http://www.codethinked.com/asp.net-mvc-ajax-csrf-protection-with-jquery-1.5
 
 SessionlessMVC3 - This project contains the settings for sessionless controllers.
+
+DataAnnotationsMVC3 - This project contains a custom data annotation and links to this library:  http://dataannotationsextensions.org/
