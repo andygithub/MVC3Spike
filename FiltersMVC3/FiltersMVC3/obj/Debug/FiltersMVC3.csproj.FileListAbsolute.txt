@@ -1,0 +1,5 @@
+C:\Users\amaurer\Documents\Visual Studio 2010\Projects\FiltersMVC3\FiltersMVC3\bin\FiltersMVC3.dll
+C:\Users\amaurer\Documents\Visual Studio 2010\Projects\FiltersMVC3\FiltersMVC3\bin\FiltersMVC3.pdb
+C:\Users\amaurer\Documents\Visual Studio 2010\Projects\FiltersMVC3\FiltersMVC3\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\amaurer\Documents\Visual Studio 2010\Projects\FiltersMVC3\FiltersMVC3\obj\Debug\FiltersMVC3.dll
+C:\Users\amaurer\Documents\Visual Studio 2010\Projects\FiltersMVC3\FiltersMVC3\obj\Debug\FiltersMVC3.pdb
