@@ -18,6 +18,9 @@ SessionlessMVC3 - This project contains the settings for sessionless controllers
 
 DataAnnotationsMVC3 - This project contains a custom data annotation and links to this library:  http://dataannotationsextensions.org/
 
-FiltersMVC3 - THis project shows how to setup a dynamically applied global filter.  This also show how to save values from an action to a storage implementation.
+FiltersMVC3 - This project shows how to setup a dynamically applied global filter.  This also show how to save values from an action to a storage implementation.
 
 TemplateMVC3 - This project shows how to use a display template in editing and displaying data.
+
+DependencyMVC3 - This project references unity and implements the IDependencyResolver.
+

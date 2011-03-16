@@ -1,0 +1,9 @@
+C:\Users\amaurer\Documents\Visual Studio 2010\Projects\DependencyMVC3\DependencyMVC3\bin\DependencyMVC3.dll
+C:\Users\amaurer\Documents\Visual Studio 2010\Projects\DependencyMVC3\DependencyMVC3\bin\DependencyMVC3.pdb
+C:\Users\amaurer\Documents\Visual Studio 2010\Projects\DependencyMVC3\DependencyMVC3\bin\Microsoft.Practices.Unity.dll
+C:\Users\amaurer\Documents\Visual Studio 2010\Projects\DependencyMVC3\DependencyMVC3\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\amaurer\Documents\Visual Studio 2010\Projects\DependencyMVC3\DependencyMVC3\bin\Microsoft.Practices.Unity.pdb
+C:\Users\amaurer\Documents\Visual Studio 2010\Projects\DependencyMVC3\DependencyMVC3\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\amaurer\Documents\Visual Studio 2010\Projects\DependencyMVC3\DependencyMVC3\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\amaurer\Documents\Visual Studio 2010\Projects\DependencyMVC3\DependencyMVC3\obj\Debug\DependencyMVC3.dll
+C:\Users\amaurer\Documents\Visual Studio 2010\Projects\DependencyMVC3\DependencyMVC3\obj\Debug\DependencyMVC3.pdb
