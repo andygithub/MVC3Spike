@@ -1,0 +1,5 @@
+C:\Users\amaurer\Documents\Visual Studio 2010\Projects\TemplatesMVC3\TemplatesMVC3\bin\TemplatesMVC3.dll
+C:\Users\amaurer\Documents\Visual Studio 2010\Projects\TemplatesMVC3\TemplatesMVC3\bin\TemplatesMVC3.pdb
+C:\Users\amaurer\Documents\Visual Studio 2010\Projects\TemplatesMVC3\TemplatesMVC3\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\amaurer\Documents\Visual Studio 2010\Projects\TemplatesMVC3\TemplatesMVC3\obj\Debug\TemplatesMVC3.dll
+C:\Users\amaurer\Documents\Visual Studio 2010\Projects\TemplatesMVC3\TemplatesMVC3\obj\Debug\TemplatesMVC3.pdb
